@@ -1,4 +1,4 @@
-# Dart_Xpress
+# Speed_Xpress
 ## Delivery App
 
 #### Progressive Web app(PWA) that provide fast & secure courier delivery service to the customers, during the pandemic time.
